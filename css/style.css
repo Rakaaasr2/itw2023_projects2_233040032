@@ -1,0 +1,55 @@
+
+.image-produk {
+    max-width: 450px;
+    max-height: 450px;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+.tombol-menu {
+    position: absolute;
+    top: 1rem;
+    left: 1rem;
+    margin-top: 40px;
+}
+
+.col h2 {
+    font-family: 'Russo One', sans-serif;
+    letter-spacing: 2px;
+    margin-top: 20px;
+}
+
+.kuning {
+    color: yellow;
+    text-shadow: 1px 1px 1px black;
+}
+
+.biru {
+    color: aqua;
+    text-shadow: 1px 1px 1px black;
+}
+
+.oren {
+    color: orange;
+    text-shadow: 1px 1px 1px black;
+}
+
+.leopard {
+    color: orange;
+    text-shadow: 1px 1px 1px black;
+}
+
+.pink {
+    color: pink;
+    text-shadow: 1px 1px 1px black;
+}
+
+.abu {
+    color: gray;
+    text-shadow: 1px 1px 1px black;
+}
+
+.tea {
+    color: rgb(254, 169, 65);
+    text-shadow: 1px 1px 1px black;
+}
